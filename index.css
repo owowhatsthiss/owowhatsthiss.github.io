@@ -1,0 +1,39 @@
+body {
+    font-family: Helvetica;
+    font-size: 18;
+    line-height: 1.4;
+    margin-top: 40px;
+    margin-bottom: 80px;
+    color: #1d0f1d;
+}
+
+img {
+    width: 60%;
+}
+
+h1 {
+    font-size: 32;
+    font-weight: 100;
+    color: #1f4432;
+}
+
+ul.right { direction: rtl; }
+
+.left {
+    text-align: left;
+    margin-left: 3%;
+    margin-right: 50%;
+}
+
+.right {
+    text-align: right;
+    margin-left: 50%;
+    margin-right: 3%;
+}
+
+div {
+    outline: dotted;
+    outline-width: 8px;
+    outline-color: #453453;
+    outline-offset:15px;    
+}
